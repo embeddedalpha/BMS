@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 8268 11693 portrait
 encoding utf-8
-Sheet 1 6
+Sheet 1 7
 Title ""
 Date ""
 Rev ""
@@ -49,7 +49,7 @@ $Sheet
 S 4450 3650 3150 2150
 U 5EFB8CA8
 F0 "DC-DC Converter" 50
-F1 "dcdc_conv.sch" 50
+F1 "DC_DC_Converter.sch" 50
 $EndSheet
 Text Notes 4550 4800 0    197  Italic 0
 DC to DC Converter\n
@@ -73,7 +73,7 @@ $Sheet
 S 650  6100 6950 3650
 U 5EFB9B05
 F0 "Protection and Balancing" 50
-F1 "prot_bal.sch" 50
+F1 "Cell_Balancing.sch" 50
 $EndSheet
 Text Notes 1850 7900 0    197  Italic 0
 Cell Protection and Balancing
