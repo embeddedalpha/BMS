@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 8268 11693 portrait
 encoding utf-8
-Sheet 2 6
+Sheet 2 7
 Title ""
 Date ""
 Rev ""
@@ -44,110 +44,110 @@ $EndComp
 $Comp
 L Regular_Use:SISA72DN-T1-GE3 Q?
 U 1 1 5EFC1621
-P 3650 4550
+P 2800 4550
 AR Path="/5EFC1621" Ref="Q?"  Part="1" 
 AR Path="/5EFB5435/5EFC1621" Ref="Q?"  Part="1" 
-F 0 "Q?" H 4150 4815 50  0000 C CNN
-F 1 "SISA72DN-T1-GE3" H 4150 4724 50  0000 C CNN
-F 2 "ASSETS:SiSA72DN" H 4500 4650 50  0001 L CNN
-F 3 "https://www.vishay.com/docs/75680/sisa72dn.pdf" H 4500 4550 50  0001 L CNN
-F 4 "MOSFET 40V Vds 20V Vgs PowerPAK 1212-8" H 4500 4450 50  0001 L CNN "Description"
-F 5 "Vishay" H 4500 4250 50  0001 L CNN "Manufacturer_Name"
-F 6 "SISA72DN-T1-GE3" H 4500 4150 50  0001 L CNN "Manufacturer_Part_Number"
-F 7 "78-SISA72DN-T1-GE3" H 4500 4050 50  0001 L CNN "Mouser Part Number"
-F 8 "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/SISA72DN-T1-GE3?qs=YQnJFR48xcAhHFjDQIvlsQ%3D%3D" H 4500 3950 50  0001 L CNN "Mouser Price/Stock"
-	1    3650 4550
+F 0 "Q?" H 3300 4815 50  0000 C CNN
+F 1 "SISA72DN-T1-GE3" H 3300 4724 50  0000 C CNN
+F 2 "ASSETS:SiSA72DN" H 3650 4650 50  0001 L CNN
+F 3 "https://www.vishay.com/docs/75680/sisa72dn.pdf" H 3650 4550 50  0001 L CNN
+F 4 "MOSFET 40V Vds 20V Vgs PowerPAK 1212-8" H 3650 4450 50  0001 L CNN "Description"
+F 5 "Vishay" H 3650 4250 50  0001 L CNN "Manufacturer_Name"
+F 6 "SISA72DN-T1-GE3" H 3650 4150 50  0001 L CNN "Manufacturer_Part_Number"
+F 7 "78-SISA72DN-T1-GE3" H 3650 4050 50  0001 L CNN "Mouser Part Number"
+F 8 "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/SISA72DN-T1-GE3?qs=YQnJFR48xcAhHFjDQIvlsQ%3D%3D" H 3650 3950 50  0001 L CNN "Mouser Price/Stock"
+	1    2800 4550
 	-1   0    0    -1  
 $EndComp
 $Comp
 L Regular_Use:SISA72DN-T1-GE3 Q?
 U 1 1 5EFC162C
-P 4850 4550
+P 4000 4550
 AR Path="/5EFC162C" Ref="Q?"  Part="1" 
 AR Path="/5EFB5435/5EFC162C" Ref="Q?"  Part="1" 
-F 0 "Q?" H 5350 4815 50  0000 C CNN
-F 1 "SISA72DN-T1-GE3" H 5350 4724 50  0000 C CNN
-F 2 "ASSETS:SiSA72DN" H 5700 4650 50  0001 L CNN
-F 3 "https://www.vishay.com/docs/75680/sisa72dn.pdf" H 5700 4550 50  0001 L CNN
-F 4 "MOSFET 40V Vds 20V Vgs PowerPAK 1212-8" H 5700 4450 50  0001 L CNN "Description"
-F 5 "Vishay" H 5700 4250 50  0001 L CNN "Manufacturer_Name"
-F 6 "SISA72DN-T1-GE3" H 5700 4150 50  0001 L CNN "Manufacturer_Part_Number"
-F 7 "78-SISA72DN-T1-GE3" H 5700 4050 50  0001 L CNN "Mouser Part Number"
-F 8 "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/SISA72DN-T1-GE3?qs=YQnJFR48xcAhHFjDQIvlsQ%3D%3D" H 5700 3950 50  0001 L CNN "Mouser Price/Stock"
-	1    4850 4550
+F 0 "Q?" H 4500 4815 50  0000 C CNN
+F 1 "SISA72DN-T1-GE3" H 4500 4724 50  0000 C CNN
+F 2 "ASSETS:SiSA72DN" H 4850 4650 50  0001 L CNN
+F 3 "https://www.vishay.com/docs/75680/sisa72dn.pdf" H 4850 4550 50  0001 L CNN
+F 4 "MOSFET 40V Vds 20V Vgs PowerPAK 1212-8" H 4850 4450 50  0001 L CNN "Description"
+F 5 "Vishay" H 4850 4250 50  0001 L CNN "Manufacturer_Name"
+F 6 "SISA72DN-T1-GE3" H 4850 4150 50  0001 L CNN "Manufacturer_Part_Number"
+F 7 "78-SISA72DN-T1-GE3" H 4850 4050 50  0001 L CNN "Mouser Part Number"
+F 8 "https://www.mouser.co.uk/ProductDetail/Vishay-Semiconductors/SISA72DN-T1-GE3?qs=YQnJFR48xcAhHFjDQIvlsQ%3D%3D" H 4850 3950 50  0001 L CNN "Mouser Price/Stock"
+	1    4000 4550
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	3650 5250 3650 4850
+	2800 5250 2800 4850
 Wire Wire Line
-	3650 4550 3750 4550
-Connection ~ 4700 4550
+	2800 4550 2900 4550
+Connection ~ 3850 4550
 Wire Wire Line
-	4700 4550 4850 4550
+	3850 4550 4000 4550
 Wire Wire Line
-	4850 4650 4700 4650
-Connection ~ 4700 4650
+	4000 4650 3850 4650
+Connection ~ 3850 4650
 Wire Wire Line
-	4700 4650 4700 4550
+	3850 4650 3850 4550
 Wire Wire Line
-	4850 4750 4700 4750
+	4000 4750 3850 4750
 Wire Wire Line
-	4700 4750 4700 4650
+	3850 4750 3850 4650
 Wire Wire Line
-	3650 4750 3750 4750
+	2800 4750 2900 4750
 Wire Wire Line
-	3750 4750 3750 4650
+	2900 4750 2900 4650
 Wire Wire Line
-	3650 4650 3750 4650
-Connection ~ 3750 4650
+	2800 4650 2900 4650
+Connection ~ 2900 4650
 Wire Wire Line
-	3750 4650 3750 4550
+	2900 4650 2900 4550
 $Comp
 L Device:R_Small R?
 U 1 1 5EFC1645
-P 4250 5000
+P 3400 5000
 AR Path="/5EFC1645" Ref="R?"  Part="1" 
 AR Path="/5EFB5435/5EFC1645" Ref="R?"  Part="1" 
-F 0 "R?" H 4309 5046 50  0000 L CNN
-F 1 "10K" H 4309 4955 50  0000 L CNN
-F 2 "" H 4250 5000 50  0001 C CNN
-F 3 "~" H 4250 5000 50  0001 C CNN
-	1    4250 5000
+F 0 "R?" H 3459 5046 50  0000 L CNN
+F 1 "10K" H 3459 4955 50  0000 L CNN
+F 2 "" H 3400 5000 50  0001 C CNN
+F 3 "~" H 3400 5000 50  0001 C CNN
+	1    3400 5000
 	1    0    0    -1  
 $EndComp
 $Comp
 L Device:R_Small R?
 U 1 1 5EFC164B
-P 4250 5450
+P 3400 5450
 AR Path="/5EFC164B" Ref="R?"  Part="1" 
 AR Path="/5EFB5435/5EFC164B" Ref="R?"  Part="1" 
-F 0 "R?" H 4309 5496 50  0000 L CNN
-F 1 "1K" H 4309 5405 50  0000 L CNN
-F 2 "" H 4250 5450 50  0001 C CNN
-F 3 "~" H 4250 5450 50  0001 C CNN
-	1    4250 5450
+F 0 "R?" H 3459 5496 50  0000 L CNN
+F 1 "1K" H 3459 5405 50  0000 L CNN
+F 2 "" H 3400 5450 50  0001 C CNN
+F 3 "~" H 3400 5450 50  0001 C CNN
+	1    3400 5450
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	4250 5100 4250 5250
+	3400 5100 3400 5250
 NoConn ~ 3250 8600
 Wire Wire Line
-	4250 5850 4250 5550
-Connection ~ 3750 4550
+	3400 5850 3400 5550
+Connection ~ 2900 4550
 Wire Wire Line
-	4250 4900 4250 4700
+	3400 4900 3400 4700
 Wire Wire Line
-	4250 4700 4400 4700
+	3400 4700 3550 4700
 Wire Wire Line
-	4400 4700 4400 4550
-Connection ~ 4400 4550
+	3550 4700 3550 4550
+Connection ~ 3550 4550
 Wire Wire Line
-	4400 4550 4700 4550
+	3550 4550 3850 4550
 Wire Wire Line
-	3650 5250 4250 5250
-Connection ~ 4250 5250
+	2800 5250 3400 5250
+Connection ~ 3400 5250
 Wire Wire Line
-	4250 5250 4250 5350
+	3400 5250 3400 5350
 NoConn ~ 1450 2650
 NoConn ~ 1450 2750
 Text GLabel 3350 2050 2    50   Input Italic 0
@@ -509,7 +509,7 @@ Wire Notes Line
 Wire Notes Line
 	550  3700 7700 3700
 Wire Notes Line
-	550  3800 7700 3800
+	550  3800 6200 3800
 Wire Wire Line
 	3250 9200 2850 9200
 Wire Wire Line
@@ -596,15 +596,15 @@ F 3 "" H 1650 7800 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	3750 4550 4100 4550
+	2900 4550 3250 4550
 Wire Wire Line
-	4100 4550 4100 4150
+	3250 4550 3250 4150
 Wire Wire Line
-	4100 4150 3850 4150
-Connection ~ 4100 4550
+	3250 4150 3000 4150
+Connection ~ 3250 4550
 Wire Wire Line
-	4100 4550 4400 4550
-Text GLabel 3850 4150 0    50   Input Italic 0
+	3250 4550 3550 4550
+Text GLabel 3000 4150 0    50   Input Italic 0
 VDD
 Text GLabel 2800 7900 0    50   Input Italic 0
 VDD
@@ -644,12 +644,12 @@ Text GLabel 2800 8400 0    50   Input Italic 0
 VBUS_EN_SNK
 Wire Wire Line
 	3250 8400 2800 8400
-Text GLabel 4250 5850 3    50   Input Italic 0
+Text GLabel 3400 5850 3    50   Input Italic 0
 VBUS_EN_SNK
 Wire Notes Line
-	550  6550 7700 6550
+	550  6550 6200 6550
 Wire Notes Line
-	7700 3800 7700 6550
+	6200 3800 6200 6550
 Wire Notes Line
 	550  3800 550  6550
 Wire Notes Line
@@ -665,27 +665,27 @@ Wire Notes Line
 Wire Notes Line
 	3450 9850 3450 11150
 Wire Wire Line
-	2650 4550 2500 4550
+	1800 4550 1650 4550
 Wire Wire Line
-	2500 4550 2500 4650
+	1650 4550 1650 4650
 Wire Wire Line
-	2500 4850 2650 4850
+	1650 4850 1800 4850
 Wire Wire Line
-	2650 4750 2500 4750
-Connection ~ 2500 4750
+	1800 4750 1650 4750
+Connection ~ 1650 4750
 Wire Wire Line
-	2500 4750 2500 4850
+	1650 4750 1650 4850
 Wire Wire Line
-	2650 4650 2500 4650
-Connection ~ 2500 4650
+	1800 4650 1650 4650
+Connection ~ 1650 4650
 Wire Wire Line
-	2500 4650 2500 4700
+	1650 4650 1650 4700
 Wire Wire Line
-	2500 4700 2300 4700
-Connection ~ 2500 4700
+	1650 4700 1450 4700
+Connection ~ 1650 4700
 Wire Wire Line
-	2500 4700 2500 4750
-Text GLabel 2150 4700 0    50   Input Italic 0
+	1650 4700 1650 4750
+Text GLabel 1300 4700 0    50   Input Italic 0
 VIN
 $Comp
 L Regular_Use:SISA72DN-T1-GE3 Q?
@@ -779,19 +779,19 @@ Connection ~ 2950 7900
 Wire Wire Line
 	2950 7900 2800 7900
 Wire Wire Line
-	5850 4550 5950 4550
+	5000 4550 5100 4550
 Wire Wire Line
-	5950 4550 5950 4650
+	5100 4550 5100 4650
 Wire Wire Line
-	5950 4750 5850 4750
+	5100 4750 5000 4750
 Wire Wire Line
-	5850 4650 5950 4650
-Connection ~ 5950 4650
+	5000 4650 5100 4650
+Connection ~ 5100 4650
 Wire Wire Line
-	5950 4650 5950 4750
+	5100 4650 5100 4750
 Wire Wire Line
-	5950 4650 6550 4650
-Text GLabel 6550 4650 2    50   Input Italic 0
+	5100 4650 5700 4650
+Text GLabel 5700 4650 2    50   Input Italic 0
 VOUT
 Wire Wire Line
 	4850 8900 5500 8900
@@ -1105,23 +1105,115 @@ Wire Wire Line
 	2800 8500 2500 8500
 NoConn ~ 3250 8300
 Wire Wire Line
-	2300 4700 2300 5200
+	1450 4700 1450 5200
 Wire Wire Line
-	2300 5200 2050 5200
-Connection ~ 2300 4700
+	1450 5200 1200 5200
+Connection ~ 1450 4700
 Wire Wire Line
-	2300 4700 2150 4700
-Text GLabel 2050 5200 0    50   Input Italic 0
+	1450 4700 1300 4700
+Text GLabel 1200 5200 0    50   Input Italic 0
 VBUS_SENSE
 Wire Wire Line
-	5850 4850 5950 4850
+	5000 4850 5100 4850
 Wire Wire Line
-	5950 4850 5950 4750
-Connection ~ 5950 4750
+	5100 4850 5100 4750
+Connection ~ 5100 4750
 Wire Wire Line
-	4850 4850 4700 4850
+	4000 4850 3850 4850
 Wire Wire Line
-	4700 4850 4700 5250
+	3850 4850 3850 5250
 Wire Wire Line
-	4700 5250 4250 5250
+	3850 5250 3400 5250
+Text GLabel 7050 4150 0    50   Input Italic 0
+IM_SWITCH
+Text GLabel 7050 4300 0    50   Input Italic 0
+D+
+Text GLabel 7050 4450 0    50   Input Italic 0
+D-
+Text GLabel 7050 4600 0    50   Input Italic 0
+V_SENSE
+Text GLabel 7050 4750 0    50   Input Italic 0
+VOUT
+Text GLabel 7050 4900 0    50   Input Italic 0
+SCL
+Text GLabel 7050 5050 0    50   Input Italic 0
+SDA
+Text GLabel 7050 5200 0    50   Input Italic 0
+nALERT
+Text GLabel 7050 5350 0    50   Input Italic 0
+MOSI
+Text GLabel 7050 5500 0    50   Input Italic 0
+TX_EN
+Text GLabel 7050 5650 0    50   Input Italic 0
+SCLK
+Text GLabel 7050 5800 0    50   Input Italic 0
+NSS
+Text GLabel 7050 5950 0    50   Input Italic 0
+MISO
+Text GLabel 7050 6100 0    50   Input Italic 0
+V_3.3
+Wire Notes Line
+	6300 3800 6300 6550
+Wire Notes Line
+	6300 6550 7700 6550
+Wire Notes Line
+	7700 6550 7700 3800
+Wire Notes Line
+	7700 3800 6300 3800
+Text HLabel 7150 4150 2    50   Input Italic 0
+IM_SWITCH
+Text HLabel 7150 4300 2    50   Input Italic 0
+D+
+Text HLabel 7150 4450 2    50   Input Italic 0
+D-
+Text HLabel 7150 4600 2    50   Input Italic 0
+V_SENSE
+Text HLabel 7150 4750 2    50   Input Italic 0
+VOUT
+Text HLabel 7150 4900 2    50   Input Italic 0
+SCL
+Text HLabel 7150 5050 2    50   Input Italic 0
+SDA
+Text HLabel 7150 5200 2    50   Input Italic 0
+nALERT
+Text HLabel 7150 5350 2    50   Input Italic 0
+MOSI
+Text HLabel 7150 5500 2    50   Input Italic 0
+TX_EN
+Text HLabel 7150 5650 2    50   Input Italic 0
+SCLK
+Text HLabel 7150 5800 2    50   Input Italic 0
+NSS
+Text HLabel 7150 5950 2    50   Input Italic 0
+MISO
+Text HLabel 7150 6100 2    50   Input Italic 0
+V_3.3
+Wire Wire Line
+	7050 4150 7150 4150
+Wire Wire Line
+	7050 4300 7150 4300
+Wire Wire Line
+	7050 4450 7150 4450
+Wire Wire Line
+	7050 4600 7150 4600
+Wire Wire Line
+	7050 4750 7150 4750
+Wire Wire Line
+	7050 4900 7150 4900
+Wire Wire Line
+	7050 5050 7150 5050
+Wire Wire Line
+	7050 5200 7150 5200
+Wire Wire Line
+	7050 5350 7150 5350
+Wire Wire Line
+	7050 5500 7150 5500
+Wire Wire Line
+	7050 5650 7150 5650
+Wire Wire Line
+	7050 5800 7150 5800
+Wire Wire Line
+	7050 5950 7150 5950
+Wire Wire Line
+	7050 6100 7150 6100
 $EndSCHEMATC

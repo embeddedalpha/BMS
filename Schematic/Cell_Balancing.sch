@@ -1058,4 +1058,10 @@ Wire Notes Line
 	7700 600  550  600 
 Wire Notes Line
 	550  600  550  3600
+Wire Wire Line
+	1500 8850 1600 8850
+Text HLabel 1600 8850 2    50   Input Italic 0
+V_3.3
+Text GLabel 1500 8850 0    50   Input Italic 0
+V_3.3
 $EndSCHEMATC
