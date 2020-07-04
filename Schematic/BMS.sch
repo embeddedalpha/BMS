@@ -49,7 +49,7 @@ $Sheet
 S 650  3650 3150 2150
 U 5EFB9179
 F0 "Controller" 50
-F1 "controller.sch" 50
+F1 "Controller.sch" 50
 F2 "IM_SWITCH" I R 3800 3800 50 
 F3 "D+" I R 3800 4400 50 
 F4 "D-" I R 3800 4500 50 
