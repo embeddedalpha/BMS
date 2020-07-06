@@ -414,13 +414,13 @@ Wire Wire Line
 	2250 10500 2100 10500
 Wire Wire Line
 	2250 9950 2250 10050
-Text GLabel 2800 6850 2    50   BiDi Italic 0
+Text GLabel 2800 6850 2    50   Input Italic 0
 VC10
-Text GLabel 2800 7300 2    50   BiDi Italic 0
+Text GLabel 2800 7300 2    50   Input Italic 0
 VC7
-Text GLabel 2800 7750 2    50   BiDi Italic 0
+Text GLabel 2800 7750 2    50   Input Italic 0
 VC6
-Text GLabel 2800 8350 2    50   BiDi Italic 0
+Text GLabel 2800 8350 2    50   Input Italic 0
 VC5B
 Wire Wire Line
 	2800 8350 2250 8350
@@ -433,15 +433,15 @@ Wire Wire Line
 	2250 6850 2800 6850
 Connection ~ 2250 6850
 Connection ~ 2250 8800
-Text GLabel 2800 8800 2    50   BiDi Italic 0
+Text GLabel 2800 8800 2    50   Input Italic 0
 VC5
 Wire Wire Line
 	2250 8800 2800 8800
-Text GLabel 2800 9200 2    50   BiDi Italic 0
+Text GLabel 2800 9200 2    50   Input Italic 0
 VC2
 Wire Wire Line
 	2250 9200 2800 9200
-Text GLabel 2800 9700 2    50   BiDi Italic 0
+Text GLabel 2800 9700 2    50   Input Italic 0
 VC1
 Wire Wire Line
 	2250 9700 2800 9700
@@ -463,7 +463,7 @@ Wire Wire Line
 Connection ~ 2250 10050
 Wire Wire Line
 	2250 10050 2250 10100
-Text GLabel 2850 10500 2    50   BiDi Italic 0
+Text GLabel 2850 10500 2    50   Input Italic 0
 VC0
 Wire Wire Line
 	2250 10500 2850 10500
@@ -1548,4 +1548,10 @@ Text HLabel 2900 1100 1    50   BiDi Italic 0
 PWR_OUT
 Wire Wire Line
 	2900 1100 2900 1500
+Text GLabel 9100 8500 0    50   BiDi Italic 0
+ALERT
+Text GLabel 8850 8650 2    50   BiDi Italic 0
+SCL
+Text GLabel 8850 8750 2    50   BiDi Italic 0
+SDA
 $EndSCHEMATC
