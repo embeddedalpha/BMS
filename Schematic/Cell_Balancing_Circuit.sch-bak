@@ -923,51 +923,51 @@ NoConn ~ 6150 2100
 Text HLabel 4150 1850 2    50   BiDi Italic 0
 PWR_IN
 $Sheet
-S 8150 1200 1850 4450
+S 8250 1200 1850 4450
 U 60AAC0BB
 F0 "Balance_Fet" 50
 F1 "Bal_Fet.sch" 50
-F2 "Cell_6" I R 10000 2800 50 
-F3 "Cell_5" I R 10000 3000 50 
-F4 "Cell_4" I R 10000 3200 50 
-F5 "Cell_3" I R 10000 3400 50 
-F6 "Cell_2" I R 10000 3600 50 
-F7 "Cell_1" I R 10000 3800 50 
-F8 "Cell_0" I R 10000 4000 50 
-F9 "PWR_OUT" I R 10000 2050 50 
+F2 "Cell_6" I R 10100 2800 50 
+F3 "Cell_5" I R 10100 3000 50 
+F4 "Cell_4" I R 10100 3200 50 
+F5 "Cell_3" I R 10100 3400 50 
+F6 "Cell_2" I R 10100 3600 50 
+F7 "Cell_1" I R 10100 3800 50 
+F8 "Cell_0" I R 10100 4000 50 
+F9 "PWR_OUT" I R 10100 2050 50 
 $EndSheet
-Text HLabel 10650 2800 2    50   Input ~ 0
+Text HLabel 10750 2800 2    50   Input ~ 0
 Cell_6
-Text HLabel 10650 3000 2    50   Input ~ 0
+Text HLabel 10750 3000 2    50   Input ~ 0
 Cell_5
-Text HLabel 10650 3200 2    50   Input ~ 0
+Text HLabel 10750 3200 2    50   Input ~ 0
 Cell_4
-Text HLabel 10650 3400 2    50   Input ~ 0
+Text HLabel 10750 3400 2    50   Input ~ 0
 Cell_3
-Text HLabel 10650 3600 2    50   Input ~ 0
+Text HLabel 10750 3600 2    50   Input ~ 0
 Cell_2
-Text HLabel 10650 3800 2    50   Input ~ 0
+Text HLabel 10750 3800 2    50   Input ~ 0
 Cell_1
-Text HLabel 10650 4000 2    50   Input ~ 0
+Text HLabel 10750 4000 2    50   Input ~ 0
 Cell_0
-Text HLabel 10600 2050 2    50   Input ~ 0
+Text HLabel 10700 2050 2    50   Input ~ 0
 PWR_IN
 Wire Wire Line
-	10000 2050 10600 2050
+	10100 2050 10700 2050
 Wire Wire Line
-	10650 2800 10000 2800
+	10750 2800 10100 2800
 Wire Wire Line
-	10650 3000 10000 3000
+	10750 3000 10100 3000
 Wire Wire Line
-	10650 3200 10000 3200
+	10750 3200 10100 3200
 Wire Wire Line
-	10000 3400 10650 3400
+	10100 3400 10750 3400
 Wire Wire Line
-	10000 3600 10650 3600
+	10100 3600 10750 3600
 Wire Wire Line
-	10650 3800 10000 3800
+	10750 3800 10100 3800
 Wire Wire Line
-	10650 4000 10000 4000
+	10750 4000 10100 4000
 Text GLabel 5600 7000 0    50   BiDi Italic 0
 SCLK_H
 Text GLabel 5600 7150 0    50   BiDi Italic 0
@@ -1036,4 +1036,12 @@ Wire Notes Line
 	600  900  600  7350
 Wire Notes Line
 	600  7350 4400 7350
+Wire Notes Line
+	8100 900  11150 900 
+Wire Notes Line
+	11150 900  11150 5850
+Wire Notes Line
+	11150 5850 8100 5850
+Wire Notes Line
+	8100 900  8100 5850
 $EndSCHEMATC

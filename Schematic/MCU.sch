@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 8268 11693 portrait
 encoding utf-8
-Sheet 4 6
+Sheet 3 6
 Title ""
 Date ""
 Rev ""
@@ -13,140 +13,74 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-Text HLabel 2550 8850 2    50   Input ~ 0
+Text HLabel 2450 5750 2    50   Input ~ 0
 SCL
-Text HLabel 2550 8950 2    50   Input ~ 0
+Text HLabel 2450 5900 2    50   Input ~ 0
 SDA
-Text HLabel 2700 9050 0    50   Input ~ 0
+Text HLabel 2450 6050 2    50   Input ~ 0
 ALERT
-Text GLabel 2100 8400 0    50   BiDi Italic 0
+Text GLabel 2050 5300 0    50   BiDi Italic 0
 SCLK_H
-Text GLabel 2100 8550 0    50   BiDi Italic 0
+Text GLabel 2050 5450 0    50   BiDi Italic 0
 SDI_H
-Text GLabel 2100 8700 0    50   BiDi Italic 0
+Text GLabel 2050 5600 0    50   BiDi Italic 0
 CS_H
-Text GLabel 2100 7800 0    50   BiDi Italic 0
+Text GLabel 2050 4700 0    50   BiDi Italic 0
 DRDY_H
-Text GLabel 2100 7950 0    50   BiDi Italic 0
+Text GLabel 2050 4850 0    50   BiDi Italic 0
 ALERT_H
-Text GLabel 2100 8100 0    50   BiDi Italic 0
+Text GLabel 2050 5000 0    50   BiDi Italic 0
 FAULT_H
-Text GLabel 2100 8250 0    50   BiDi Italic 0
+Text GLabel 2050 5150 0    50   BiDi Italic 0
 SDO_H
-Text GLabel 2100 7650 0    50   BiDi Italic 0
+Text GLabel 2050 4550 0    50   BiDi Italic 0
 CONV_H
-Text HLabel 2500 7650 2    50   Input ~ 0
+Text HLabel 2450 4550 2    50   Input ~ 0
 CONV_H
-Text HLabel 2500 7800 2    50   Input ~ 0
+Text HLabel 2450 4700 2    50   Input ~ 0
 DRDY_H
-Text HLabel 2500 7950 2    50   Input ~ 0
+Text HLabel 2450 4850 2    50   Input ~ 0
 ALERT_H
-Text HLabel 2500 8100 2    50   Input ~ 0
+Text HLabel 2450 5000 2    50   Input ~ 0
 FAULT_H
-Text HLabel 2500 8250 2    50   Input ~ 0
+Text HLabel 2450 5150 2    50   Input ~ 0
 SDO_H
-Text HLabel 2500 8400 2    50   Input ~ 0
+Text HLabel 2450 5300 2    50   Input ~ 0
 SCLK_H
-Text HLabel 2500 8550 2    50   Input ~ 0
+Text HLabel 2450 5450 2    50   Input ~ 0
 SDI_H
-Text HLabel 2500 8700 2    50   Input ~ 0
+Text HLabel 2450 5600 2    50   Input ~ 0
 CS_H
 Wire Wire Line
-	2100 7650 2500 7650
+	2050 4550 2450 4550
 Wire Wire Line
-	2100 7800 2500 7800
+	2050 4700 2450 4700
 Wire Wire Line
-	2100 7950 2500 7950
+	2050 4850 2450 4850
 Wire Wire Line
-	2100 8100 2500 8100
+	2050 5000 2450 5000
 Wire Wire Line
-	2100 8250 2500 8250
+	2050 5150 2450 5150
 Wire Wire Line
-	2100 8400 2500 8400
+	2050 5300 2450 5300
 Wire Wire Line
-	2100 8550 2500 8550
+	2050 5450 2450 5450
 Wire Wire Line
-	2100 8700 2500 8700
-Text GLabel 1900 4950 0    50   Input Italic 0
-D+
-Text GLabel 1900 5100 0    50   Input Italic 0
-D-
-Text GLabel 1900 4800 0    50   Input Italic 0
+	2050 5600 2450 5600
+Text GLabel 1900 4250 0    50   Input Italic 0
 IM_SWITCH
-Text GLabel 1900 5700 0    50   Input Italic 0
-V_SENSE
-Text GLabel 1900 6450 0    50   Input Italic 0
-SCL_USB
-Text GLabel 1900 6600 0    50   Input Italic 0
-SDA_USB
-Text GLabel 1900 6750 0    50   Input Italic 0
-nALERT_USB
-Text GLabel 1900 6300 0    50   Input Italic 0
+Text GLabel 1900 4400 0    50   Input Italic 0
 V_3.3
-Text GLabel 1900 5550 0    50   Input Italic 0
-MOSI_USB
-Text GLabel 1900 6000 0    50   Input Italic 0
-TX_EN_USB
-Text GLabel 1900 5250 0    50   Input Italic 0
-SCLK_USB
-Text GLabel 1900 5850 0    50   Input Italic 0
-NSS_USB
-Text GLabel 1900 5400 0    50   Input Italic 0
-MISO_USB
-Text HLabel 2450 4800 2    50   Input ~ 0
+Text HLabel 2450 4250 2    50   Input ~ 0
 IM_SWITCH
-Text HLabel 2450 4950 2    50   Input ~ 0
-D+
-Text HLabel 2450 5100 2    50   Input ~ 0
-D-
-Text HLabel 2450 5250 2    50   Input ~ 0
-SCLK_USB
-Text HLabel 2450 5400 2    50   Input ~ 0
-MISO_USB
-Text HLabel 2450 5550 2    50   Input ~ 0
-MOSI_USB
-Text HLabel 2450 5700 2    50   Input ~ 0
-V_SENSE
-Text HLabel 2450 5850 2    50   Input ~ 0
-NSS_USB
-Text HLabel 2450 6000 2    50   Input ~ 0
-TX_EN_USB
 Text HLabel 2300 900  0    50   Input ~ 0
-PWR_OUT
-Text HLabel 2450 6300 2    50   Input ~ 0
+PWR_IN
+Text HLabel 2450 4400 2    50   Input ~ 0
 V_3.3
-Text HLabel 2450 6450 2    50   Input ~ 0
-SCL_USB
-Text HLabel 2450 6600 2    50   Input ~ 0
-SDA_USB
-Text HLabel 2450 6750 2    50   Input ~ 0
-nALERT_USB
 Wire Wire Line
-	1900 6750 2450 6750
+	1900 4400 2450 4400
 Wire Wire Line
-	2450 6600 1900 6600
-Wire Wire Line
-	2450 6450 1900 6450
-Wire Wire Line
-	1900 6300 2450 6300
-Wire Wire Line
-	2450 6000 1900 6000
-Wire Wire Line
-	1900 5850 2450 5850
-Wire Wire Line
-	1900 5700 2450 5700
-Wire Wire Line
-	1900 5550 2450 5550
-Wire Wire Line
-	2450 5400 1900 5400
-Wire Wire Line
-	1900 5250 2450 5250
-Wire Wire Line
-	1900 5100 2450 5100
-Wire Wire Line
-	1900 4950 2450 4950
-Wire Wire Line
-	1900 4800 2450 4800
+	1900 4250 2450 4250
 $Comp
 L Regular_Use:STM32G473CET6 IC?
 U 1 1 60EF68F0
@@ -1190,4 +1124,16 @@ Wire Wire Line
 	6900 6600 7250 6600
 Text GLabel 7250 6600 2    50   Input ~ 0
 BOOT1
+Text GLabel 2050 5750 0    50   BiDi Italic 0
+SCL
+Wire Wire Line
+	2050 5750 2450 5750
+Text GLabel 2050 5900 0    50   BiDi Italic 0
+SDA
+Wire Wire Line
+	2050 5900 2450 5900
+Text GLabel 2050 6050 0    50   BiDi Italic 0
+ALERT
+Wire Wire Line
+	2050 6050 2450 6050
 $EndSCHEMATC
