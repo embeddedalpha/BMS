@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 8268 11693 portrait
 encoding utf-8
-Sheet 7 6
+Sheet 6 6
 Title ""
 Date ""
 Rev ""
@@ -1455,5 +1455,21 @@ F 3 "~" H 2150 2050 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 Wire Wire Line
-	4550 9350 5950 9350
+	4550 9350 5550 9350
+Wire Wire Line
+	5550 9350 5550 9650
+Connection ~ 5550 9350
+Wire Wire Line
+	5550 9350 5950 9350
+$Comp
+L power:GND #PWR?
+U 1 1 5F9DC089
+P 5550 9650
+F 0 "#PWR?" H 5550 9400 50  0001 C CNN
+F 1 "GND" H 5555 9477 50  0000 C CNN
+F 2 "" H 5550 9650 50  0001 C CNN
+F 3 "" H 5550 9650 50  0001 C CNN
+	1    5550 9650
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC

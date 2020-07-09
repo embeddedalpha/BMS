@@ -1149,7 +1149,7 @@ Wire Wire Line
 Wire Wire Line
 	10600 4950 10100 4950
 Wire Wire Line
-	10600 5750 10100 5750
+	10600 5750 10450 5750
 Text GLabel 9150 5750 0    50   Input Italic 0
 VC0
 Wire Wire Line
@@ -1666,4 +1666,20 @@ Text HLabel 3550 6950 2    50   Input ~ 0
 SDA
 Text HLabel 1450 7250 0    50   Input ~ 0
 ALERT
+Wire Wire Line
+	10450 5750 10450 5950
+Connection ~ 10450 5750
+Wire Wire Line
+	10450 5750 10100 5750
+$Comp
+L power:GND #PWR?
+U 1 1 5F9D15E2
+P 10450 5950
+F 0 "#PWR?" H 10450 5700 50  0001 C CNN
+F 1 "GND" H 10455 5777 50  0000 C CNN
+F 2 "" H 10450 5950 50  0001 C CNN
+F 3 "" H 10450 5950 50  0001 C CNN
+	1    10450 5950
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
