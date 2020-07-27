@@ -1,4 +1,4 @@
-17499868117508139
+17526985001988671
 ASSETS
 0.5mm-NPTH-Drill
 
@@ -56,6 +56,13 @@ BGA725L6E6327FTSA1
 6
 6
 ASSETS
+CAPAE830X1200N
+63SXV33M
+Capacitor Polarised
+0
+2
+2
+ASSETS
 CSD18543Q3AT
 Q3A_2020
 MOSFET (N-Channel)
@@ -69,6 +76,20 @@ Capacitive_Touch_Circular_Button
 0
 1
 1
+ASSETS
+Company_Logo
+
+
+0
+0
+0
+ASSETS
+Company_Logo1
+
+
+0
+0
+0
 ASSETS
 ILI9341 TFT DISPLAY SPI
 
@@ -2226,6 +2247,13 @@ Integrated Circuit
 6
 6
 ASSETS
+SON50P300X300X90-11N-D
+DFN
+Undefined or Miscellaneous
+0
+11
+11
+ASSETS
 SON127P800X600X80-9N-D
 W25Q128JVPIQ
 Integrated Circuit
@@ -2414,6 +2442,97 @@ stack_pin
 0
 1
 1
+BMS_Footprint_V2
+43650-0212
+Molex Micro-Fit 3.0 - Header Shrouded, Surface mount, Right Angle, with Solderable tabs;   P/N: SD-43650-0212, SD-43650-0213, SD-43650-0214<p><a href='http://www.molex.com/pdm_docs/sd/436500212_sd.pdf'>http://www.molex.com/pdm_docs/sd/436500212_sd.pdf</a>
+
+0
+4
+4
+BMS_Footprint_V2
+43650-0700
+Molex Micro-Fit 3.0 - Header Shrouded, Thru hole, Right Angle, with Pegs;  P/N: SD-43650-0700, SD-43650-0701, SD-43650-0702<p><a href ='http://www.molex.com/pdm_docs/sd/436500200_sd.pdf'>http://www.molex.com/pdm_docs/sd/436500200_sd.pdf</a>
+
+0
+7
+7
+BMS_Footprint_V2
+43650-0709
+Molex Micro-Fit 3.0 - Header Shrouded, Thru hole, Right Angle, with Solderable Retention Clips;  P/N: SD-43650-0709, SD-43650-0710, SD-43650-0711<p><a href ='http://www.molex.com/pdm_docs/sd/436500209_sd.pdf'>http://www.molex.com/pdm_docs/sd/436500209_sd.pdf</a>
+
+0
+7
+7
+BMS_Footprint_V2
+43650-0712
+Molex Micro-Fit 3.0 - Header Shrouded, Surface mount, Right Angle, with Solderable tabs;   P/N: SD-43650-0712, SD-43650-0713, SD-43650-0714<p><a href='http://www.molex.com/pdm_docs/sd/436500212_sd.pdf'>http://www.molex.com/pdm_docs/sd/436500212_sd.pdf</a>
+
+0
+9
+9
+BMS_Footprint_V2
+43650-0715
+Molex Micro-Fit 3.0 - Header Shrouded, Thru hole, Vertical, with Pegs;  P/N: SD-43650-0715, SD-43650-0716, SD-43650-0717<p><a href ='http://www.molex.com/pdm_docs/sd/436500215_sd.pdf'>http://www.molex.com/pdm_docs/sd/436500215_sd.pdf</a>
+
+0
+7
+7
+BMS_Footprint_V2
+43650-0721
+Molex Micro-Fit 3.0 - Header Shrouded, Thru hole, Vertical, with Solderable Retention Clips;  P/N: SD-43650-0721, SD-43650-0722, SD-43650-0723<p><a href ='http://www.molex.com/pdm_docs/sd/436500221_sd.pdf'>http://www.molex.com/pdm_docs/sd/436500221_sd.pdf</a>
+
+0
+7
+7
+BMS_Footprint_V2
+43650-0724
+Molex Micro-Fit 3.0 - Header Shrouded, Thru hole, Vertical, with Solder Tabs;  P/N: SD-43650-0724, SD-43650-0725, SD-43650-0726<p><a href ='http://www.molex.com/pdm_docs/sd/436500224_sd.pdf'>http://www.molex.com/pdm_docs/sd/436500224_sd.pdf</a>
+
+0
+9
+9
+BMS_Footprint_V2
+BZT52B5V1E308
+BZT52B5V1-E3-08-1
+Zener Diode
+0
+2
+2
+BMS_Footprint_V2
+POWERPAK-1212-8
+PowerPAK-1212-8
+MOSFET (N-Channel)
+0
+9
+9
+BMS_Footprint_V2
+QFN50P400X400X100-25N-D
+RGE0024B
+Integrated Circuit
+0
+25
+25
+BMS_Footprint_V2
+SIS862DNT1GE3
+PowerPAK 1212-8 Single_2
+MOSFET (P-Channel)
+0
+11
+11
+BMS_Footprint_V2
+SOT95P251X112-3N
+SSOT-3L
+Integrated Circuit
+0
+3
+3
+BMS_Footprint_V2
+THRMC1608X90N
+0603
+Thermistor
+0
+2
+2
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
