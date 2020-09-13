@@ -1,5 +1,6 @@
 # BMS
 Battery Management System for 6s Li-ion Pack
+<h1> Kunal Salvi </h1>
 
 ![icons8-linkedin-96](https://user-images.githubusercontent.com/38166489/93021503-892bbf80-f600-11ea-975d-1a1fedef600d.png)
 
